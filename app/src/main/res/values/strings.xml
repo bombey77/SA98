@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SA98</string>
+    <string name="result">Result:</string>
+    <string name="start">Start</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+</resources>
